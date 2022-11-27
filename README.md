@@ -1,5 +1,4 @@
 # essentials.nvim
----
 A collection of overly complicated plugins/libraries for my neovim config
 
 ### form
